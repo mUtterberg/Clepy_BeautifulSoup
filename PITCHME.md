@@ -90,7 +90,7 @@ http.createServer(function (request, response) {
     More details here.</a>
 </div>
 <div class="right">
-   <iframe src="https://www.crummy.com/software/BeautifulSoup/zine/" style="height:20em;width:50em"></iframe>
+   <iframe src="https://www.crummy.com/software/BeautifulSoup/zine/" style="height:10em;width:50em"></iframe>
 </div>
 
 +++
