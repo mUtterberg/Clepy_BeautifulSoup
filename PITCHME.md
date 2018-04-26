@@ -4,20 +4,20 @@
 
 ---
 
-## Tips!
+## Next slide!
 
 <br>
 
-@fa[arrows gp-tip](Press F to go Fullscreen)
+@fa[arrows gp-tip](Press F to go Fullscreen - ESC to undo)
 
 @fa[microphone gp-tip](Press S for Speaker Notes)
 
 ---
 
-## Template Features
+## Pay attention to the formatting!
 
-- Code Presenting |
-- Repo Source, Static Blocks, GIST |
+- Vertical slash is a mid-slide arrow break |
+- A dash is a bulleted list item |
 - Custom CSS Styling |
 - Slideshow Background Image |
 - Slide-specific Background Images |
@@ -101,7 +101,7 @@ http.createServer(function (request, response) {
 
 ---
 
-### Questions?
+### What does at fa mean??
 
 <br>
 
