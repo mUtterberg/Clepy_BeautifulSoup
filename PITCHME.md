@@ -1,6 +1,6 @@
-# Aqua
+# Beautiful Soup
 
-### A GitPitch Presentation Template
+### XML/HTML Parsing with Soul
 
 ---
 
