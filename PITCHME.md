@@ -8,7 +8,7 @@
 
 <br>
 
-@fa[arrows gp-tip](Press F to go Fullscreen - ESC to undo)
+@fa[fab fa-github](fab fa-github is github, but no Kaggle icon exists yet.)
 
 @fa[microphone gp-tip](Press S for Speaker Notes)
 
