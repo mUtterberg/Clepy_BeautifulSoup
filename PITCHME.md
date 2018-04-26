@@ -62,7 +62,7 @@ http.createServer(function (request, response) {
 @[9-17](Displayed using code-syntax highlighting just like your IDE.)
 @[19-20](Again, all of this without ever leaving your slideshow.)
 
----?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&lang=scala&title=I'm starting to get the GIST of titles
++++?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&lang=scala&title=I'm starting to get the GIST of GitPitch
 
 @[23](You can even present code found within any GitHub GIST.)
 @[41-53](GIST source code is beautifully rendered on any slide.)
@@ -79,7 +79,7 @@ http.createServer(function (request, response) {
 - [Slide-specific Background Images](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background)
 - [Custom Logo](https://github.com/gitpitch/gitpitch/wiki/Logo-Setting), [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents), and [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
 
----
++++
 
 ## Go GitPitch Pro!
 
@@ -99,9 +99,9 @@ http.createServer(function (request, response) {
     </ul>
 </div>
 
----
++++
 
-### What does at fa mean??
+### Font Awesome integrates nicely
 
 <br>
 
