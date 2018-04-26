@@ -90,13 +90,8 @@ http.createServer(function (request, response) {
     More details here.</a>
 </div>
 <div class="right">
-    <ul>
-        <li>Private Repos</li>
-        <li>Private URLs</li>
-        <li>Password-Protection</li>
-        <li>Image Opacity</li>
-        <li>SVG Image Support</li>
-    </ul>
+   
+   <iframe src="https://www.crummy.com/software/BeautifulSoup/zine/"></iframe>
 </div>
 
 +++
