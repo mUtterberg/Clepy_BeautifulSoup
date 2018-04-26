@@ -1,6 +1,6 @@
 # Beautiful Soup
 
-### XML/HTML Parsing with Soul
+### Web Scraping with Soul
 
 ---
 
