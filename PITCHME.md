@@ -4,13 +4,13 @@
 
 ---
 
-## Next slide!
+## Brief description
 
 <br>
 
-@fa[fab fa-github](fab fa-github is github, but no Kaggle icon exists yet.)
+Write something or paste in iframe of Beautiful Soup homepage?
 
-@fa[microphone gp-tip](Press S for Speaker Notes)
+@fa[fab fa-github](fab fa-github is there a Beautiful Soup repo?)
 
 ---
 
