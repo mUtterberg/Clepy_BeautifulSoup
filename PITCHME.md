@@ -26,10 +26,10 @@
 
 - Vertical slash is a mid-slide arrow break |
 - A dash is a bulleted list item
-- Custom CSS Styling
+- Two list items with no vertical character
 - Slideshow Background Image |
 - Slide-specific Background Images |
-- Custom Logo, TOC, and Footnotes |
+- Email setting (private) prevented GitHub push from local |
 
 ---?code=sample/go/server.go&lang=golang&title=I Can Do Something Here
 
