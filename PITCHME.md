@@ -26,8 +26,8 @@
 
 - Vertical slash is a mid-slide arrow break |
 - A dash is a bulleted list item
-- Two list items with no vertical character
-- Slideshow Background Image |
+- These three list items with no vertical character
+- No character prevents hide/reveal functionality
 - Slide-specific Background Images |
 - Email setting (private) prevented GitHub push from local |
 
