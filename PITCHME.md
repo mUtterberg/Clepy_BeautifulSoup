@@ -14,11 +14,15 @@
 
 @fa[fab fa-github](fab fa-github is there a Beautiful Soup repo?)
 
----?image=assets/image/BLS_OOH.png
+---
+
+## Why I XML
+
+![Logo](assets/image/BLS_OOH.png)
 
 +++
 
-## Why I XML
+## This can all go
 
 - Vertical slash is a mid-slide arrow break |
 - A dash is a bulleted list item |
