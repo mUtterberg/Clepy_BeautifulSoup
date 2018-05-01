@@ -107,11 +107,9 @@ http.createServer(function (request, response) {
 
 <br>
 
-@fa[twitter gp-contact](@gitpitch)
-
 @fa[github gp-contact](gitpitch)
-
-@fa[medium gp-contact](@gitpitch)
+Removed some font awesome logos today...
+This is how regular, unformatted text looks.
 
 ---?image=assets/image/gitpitch-audience.jpg
 
