@@ -3,4 +3,5 @@ GitPitch for Clepy prep - Module of the Month on XML parsing.
 
 URL to view in presentation mode: https://gitpitch.com/mUtterberg/Clepy_MotM
 
-I'm still deciding whether to present on xml.etree.ElementTree or try to dive into BeautifulSoup for this module talk
+I'm still deciding whether to present on xml.etree.ElementTree or try to dive into BeautifulSoup for this module talk.
+Possibly circle back to ScraPy for later study?
