@@ -1,6 +1,6 @@
-# Beautiful Soup
+# Django
 
-### Web Scraping with Soul
+### The web framework for perfectionists with deadlines
 
 ---
 
@@ -8,11 +8,11 @@
 
 <br>
 
-"Beautiful Soup is a Python library for pulling data out of HTML and XML files. It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree. It commonly saves programmers hours or days of work."
+"Django is a Python library for..."
 
-<a href src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">https://www.crummy.com/software/BeautifulSoup/bs4/doc/</a>
+<a href src="https://www.djangoproject.com/</a>
 
-@fa[fab fa-github](fab fa-github is there a Beautiful Soup repo?)
+@fa[fab fa-github](fab fa-github https://github.com/django/django)
 
 ---
 
