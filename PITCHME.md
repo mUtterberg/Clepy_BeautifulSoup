@@ -12,7 +12,7 @@
 
 <a href src="https://www.djangoproject.com/"></a>
 
-@fa[fab fa-github](fab fa-github 'https://github.com/django/django')
+@fa[fab fa-github](fab fa-github https://github.com/django/django)
 
 ---
 
