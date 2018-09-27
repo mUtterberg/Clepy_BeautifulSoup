@@ -16,7 +16,7 @@
 
 ---
 
-## Why I XML
+## Django in the wild
 
 ![Logo](assets/image/BLS_OOH.png)
 
