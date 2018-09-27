@@ -22,7 +22,7 @@
 
 +++
 
-## This can all go
+## Other examples
 
 - Vertical slash is a mid-slide arrow break |
 - A dash is a bulleted list item
