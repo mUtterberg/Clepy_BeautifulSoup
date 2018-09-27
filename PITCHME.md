@@ -111,6 +111,18 @@ http.createServer(function (request, response) {
 Removed some font awesome logos today...
 This is how regular, unformatted text looks.
 
+---
+
+### Tutorials
+
+Beginner-friendly: DjangoGirls "Blog" tutorial
+
+Intermediate: MDN "Library" tutorial
+
+Advanced: Django Documentation "Polls" tutorial
+
+Extension: Harry Percival's Test-Driven "To-Do Lists" tutorial
+
 ---?image=assets/image/gitpitch-audience.jpg
 
 @title[Download this Template!]
