@@ -31,7 +31,7 @@
 - Slide-specific Background Images |
 - Email setting (private) prevented GitHub push from local |
 
----?code=sample/python/sample.py&lang=python&title=I Can Do Something Here
+---?code=sample/Python/sample.py&lang=python&title=I Can Do Something Here
 
 @[1,3-6](Present code found within any repo source file.)
 @[8-18](Without ever leaving your slideshow.)
