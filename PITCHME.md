@@ -10,7 +10,7 @@
 
 "Django is a Python library for..."
 
-<a href src="https://www.djangoproject.com/</a>
+<a href src="https://www.djangoproject.com/></a>
 
 @fa[fab fa-github](fab fa-github https://github.com/django/django)
 
