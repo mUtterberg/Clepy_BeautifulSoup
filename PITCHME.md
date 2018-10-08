@@ -17,6 +17,7 @@ Django has a "batteries-included" philosophy, so...
 ## Django in the wild
 
 ![Instagram](assets/image/instagram.jpg)
+[Source](https://www.sayonetech.com/blog/software-stack-five-hot-startups-running-django/)
 
 ---
 
