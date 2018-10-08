@@ -74,4 +74,4 @@ Awesome Django: [No really, that's what it's called](http://awesome-django.com/)
 
 ---?image=assets/image/gitpitch-audience.jpg
 
-@fa[far fa-hand-peace]
+@fa[fas fa-hand-peace]
