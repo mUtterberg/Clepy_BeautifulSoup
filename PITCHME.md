@@ -28,7 +28,7 @@ Django has a "batteries-included" philosophy, so...
 - `django-admin startproject <project_name> .` |
 - Hey look! You've got a bunch of project files! |
 - `django-admin startapp <app_name>` |
-- Hey look! You've got an app directory with more auto-generated files! |
+- Hey look! You've got an app directory with more auto-generated files!
 
 ---?code=sample/Python/sample.py&lang=python&title=Important components
 
