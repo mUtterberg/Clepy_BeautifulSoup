@@ -4,11 +4,9 @@
 
 ---
 
-## Brief description
+## Structure
 
-<br>
-
-"Django is a Python library for..."
+Django's "batteries-included" philosophy...
 
 <a href src="https://www.djangoproject.com/"></a>
 
@@ -121,7 +119,11 @@ Intermediate: MDN "Library" tutorial
 
 Advanced: Django Documentation "Polls" tutorial
 
-Extension: Harry Percival's Test-Driven "To-Do Lists" tutorial
+Extension: [Harry Percival's Test-Driven "To-Do Lists" tutorial](https://www.obeythetestinggoat.com/pages/book.html)
+
+Non-traditional: [Lightweight Django](https://github.com/lightweightdjango)
+
+Asynchronous Django: [An outlook](https://www.aeracode.org/2018/06/04/django-async-roadmap/) and [an implementation](https://realpython.com/asynchronous-tasks-with-django-and-celery/)
 
 ---?image=assets/image/gitpitch-audience.jpg
 
