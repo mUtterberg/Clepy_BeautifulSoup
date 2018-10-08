@@ -16,7 +16,7 @@ Django has a "batteries-included" philosophy, so...
 
 ## Django in the wild
 
-![Logo](assets/image/BLS_OOH.png)
+![Instagram](assets/image/instagram.jpg)
 
 ---
 
