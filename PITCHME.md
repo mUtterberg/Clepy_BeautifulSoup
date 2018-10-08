@@ -38,17 +38,7 @@ Sources: [SayOne](https://www.sayonetech.com/blog/software-stack-five-hot-startu
 - `django-admin startapp <app_name>` |
 - Hey look! You've got an app directory with more auto-generated files! |
 
----?code=sample/Python/sample.py&lang=python&title=Important components
-
-@[1,3-6](Present code found within any repo source file.)
-@[8-18](Without ever leaving your slideshow.)
-@[19-28](Using GitPitch code-presenting with (optional) annotations.)
-
----?gist=dwbelliston/c0cb4975483c39f5658e7e23ba040e5a&lang=python&title=This GIST could legitimately be usable
-
-@[23](You can even present code found within any GitHub GIST.)
-@[41-53](GIST source code is beautifully rendered on any slide.)
-@[57-62](And code-presenting works seamlessly for GIST too, both online and offline.)
+---?image=assets/image/TestingGoat.png&title=Structure
 
 ---
 
