@@ -7,6 +7,7 @@
 ## Structure
 
 Django has a "batteries-included" philosophy, with a fully-functional ORM out of the box, session handling, a default admin portal, url handling, middleware, and more. As a framework, it is accessible to beginners yet scalable to production demands.
+
 [As they put it](https://www.djangoproject.com/start/overview/), Django is "ridiculously fast, fully-loaded, reassuringly secure, exceedingly scalable, and incredibly versatile."
 
 <a href src="https://www.djangoproject.com/"></a>
