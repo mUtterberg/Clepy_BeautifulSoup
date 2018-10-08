@@ -36,40 +36,7 @@ Django has a "batteries-included" philosophy, so...
 @[8-18](Without ever leaving your slideshow.)
 @[19-28](Using GitPitch code-presenting with (optional) annotations.)
 
----
-
-@title[JavaScript Block]
-
-<p><span class="slide-title">How Do I Make This Nav Down?</span></p>
-
-```javascript
-// Include http module.
-var http = require("http");
-
-// Create the server. Function passed as parameter
-// is called on every request made.
-http.createServer(function (request, response) {
-  // Attach listener on end event.  This event is
-  // called when client sent, awaiting response.
-  request.on("end", function () {
-    // Write headers to the response.
-    // HTTP 200 status, Content-Type text/plain.
-    response.writeHead(200, {
-      'Content-Type': 'text/plain'
-    });
-    // Send data and end response.
-    response.end('Hello HTTP!');
-  });
-
-// Listen on the 8080 port.
-}).listen(8080);
-```
-
-@[1,2](You can present code inlined within your slide markdown too.)
-@[9-17](Displayed using code-syntax highlighting just like your IDE.)
-@[19-20](Just make comments on that snippet in parentheses!)
-
-+++?gist=dwbelliston/c0cb4975483c39f5658e7e23ba040e5a&lang=python&title=This GIST could legitimately be usable
+---?gist=dwbelliston/c0cb4975483c39f5658e7e23ba040e5a&lang=python&title=This GIST could legitimately be usable
 
 @[23](You can even present code found within any GitHub GIST.)
 @[41-53](GIST source code is beautifully rendered on any slide.)
