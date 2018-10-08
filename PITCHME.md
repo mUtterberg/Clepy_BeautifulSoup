@@ -54,9 +54,15 @@ Advanced: Django Documentation "Polls" tutorial
 
 Extension: [Harry Percival's Test-Driven "To-Do Lists" tutorial](https://www.obeythetestinggoat.com/pages/book.html)
 
-Non-traditional: [Lightweight Django](https://github.com/lightweightdjango)
++++
+
+### Other Resources
+
+Non-traditional Django: [Lightweight Django](https://github.com/lightweightdjango)
 
 Asynchronous Django: [An outlook](https://www.aeracode.org/2018/06/04/django-async-roadmap/) and [an implementation](https://realpython.com/asynchronous-tasks-with-django-and-celery/)
+
+Awesome Django: [No really, that's what it's called](http://awesome-django.com/).
 
 ---?image=assets/image/gitpitch-audience.jpg
 
