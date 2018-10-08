@@ -22,7 +22,7 @@ Django has a "batteries-included" philosophy, with a fully-functional ORM out of
 
 +++
 
-Other notable companies include Disqus, Spotify, YouTube, The Washington Post, BitBucket, DropBox, EventBrite, Mozilla, & Prezi.
+Other notable companies include Disqus, Spotify, YouTube, The Washington Post, BitBucket, DropBox, EventBrite, Mozilla, Prezi, & GenomOncology.
 
 Sources: [SayOne](https://www.sayonetech.com/blog/software-stack-five-hot-startups-running-django/) and [NetGuru](https://www.netguru.co/blog/top-10-django-apps-and-why-companies-are-betting-on-this-framework)
 
