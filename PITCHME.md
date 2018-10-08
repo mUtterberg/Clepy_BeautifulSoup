@@ -73,3 +73,5 @@ Asynchronous Django: [An outlook](https://www.aeracode.org/2018/06/04/django-asy
 Awesome Django: [No really, that's what it's called](http://awesome-django.com/).
 
 ---?image=assets/image/gitpitch-audience.jpg
+
+@fa[fab fa-hand-peace]
