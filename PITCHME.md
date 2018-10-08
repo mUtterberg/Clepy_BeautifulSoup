@@ -40,6 +40,12 @@ Sources: [SayOne](https://www.sayonetech.com/blog/software-stack-five-hot-startu
 
 ---?image=assets/image/TestingGoat.png&title=Structure
 
++++
+
+Example repos: [Testing Goat](https://github.com/mUtterberg/testing-goat) or [MDN Local Library](https://github.com/mUtterberg/utterberg_django_demo)
+
+Example project sites: [Testing Goat](http://www.crookedby.design/lists/1/) or [MDN Local Library](https://afternoon-anchorage-94697.herokuapp.com/catalog/)
+
 ---
 
 ### Tutorials
