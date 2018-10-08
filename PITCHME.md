@@ -22,7 +22,7 @@ Django has a "batteries-included" philosophy, so...
 
 ## Project setup
 
-- Install Python & virtualenv
+- Install Python & virtualenv |
 - Start a project directory with a virtualenv |
 - `pip install -m django` |
 - `django-admin startproject <project_name> .` |
