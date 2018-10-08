@@ -75,4 +75,4 @@ Awesome Django: [No really, that's what it's called](http://awesome-django.com/)
 ---?image=assets/image/gitpitch-audience.jpg
 
 @fa[fas fa-hand-peace]
-Hey, there's text here.
+Check it out for yourself!
