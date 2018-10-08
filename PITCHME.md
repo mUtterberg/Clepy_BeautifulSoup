@@ -32,10 +32,10 @@ Sources: [SayOne](https://www.sayonetech.com/blog/software-stack-five-hot-startu
 
 - Install Python & virtualenv |
 - Start a project directory with a virtualenv |
-`pip install -m django` |
-`django-admin startproject <project_name> .` |
+- `pip install -m django` |
+- `django-admin startproject <project_name> .` |
 - Hey look! You've got a bunch of project files! |
-`django-admin startapp <app_name>` |
+- `django-admin startapp <app_name>` |
 - Hey look! You've got an app directory with more auto-generated files! |
 
 ---?image=assets/image/TestingGoat.png&title=Structure
