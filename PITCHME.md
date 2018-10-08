@@ -18,7 +18,7 @@ Django has a "batteries-included" philosophy, so...
 
 ![Logo](assets/image/BLS_OOH.png)
 
-+++
+---
 
 ## Project setup
 
@@ -74,16 +74,6 @@ http.createServer(function (request, response) {
 @[23](You can even present code found within any GitHub GIST.)
 @[41-53](GIST source code is beautifully rendered on any slide.)
 @[57-62](And code-presenting works seamlessly for GIST too, both online and offline.)
-
----
-
-### Font Awesome integrates nicely
-
-<br>
-
-@fa[github gp-contact](gitpitch)
-Removed some font awesome logos today...
-This is how regular, unformatted text looks.
 
 ---
 
