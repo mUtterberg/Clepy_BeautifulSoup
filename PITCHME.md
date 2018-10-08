@@ -6,7 +6,7 @@
 
 ## Structure
 
-Django's "batteries-included" philosophy...
+Django has a "batteries-included" philosophy, so...
 
 <a href src="https://www.djangoproject.com/"></a>
 
@@ -20,16 +20,17 @@ Django's "batteries-included" philosophy...
 
 +++
 
-## Other examples
+## Project setup
 
-- Vertical slash is a mid-slide arrow break |
-- A dash is a bulleted list item
-- These three list items with no vertical character
-- No character prevents hide/reveal functionality
-- Slide-specific Background Images |
-- Email setting (private) prevented GitHub push from local |
+- Install Python & virtualenv |
+- Start a project directory with a virtualenv |
+- `pip install -m django` |
+- `django-admin startproject <project_name> .` |
+- Hey look! You've got a bunch of project files! |
+- `django-admin startapp <app_name>` |
+- Hey look! You've got an app directory with more auto-generated files! |
 
----?code=sample/Python/sample.py&lang=python&title=I Can Do Something Here
+---?code=sample/Python/sample.py&lang=python&title=Important components
 
 @[1,3-6](Present code found within any repo source file.)
 @[8-18](Without ever leaving your slideshow.)
@@ -75,31 +76,6 @@ http.createServer(function (request, response) {
 @[57-62](And code-presenting works seamlessly for GIST too, both online and offline.)
 
 ---
-
-## Template Help
-
-- [Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
-  + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides)
-- [Custom CSS Styling](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS)
-- [Slideshow Background Image](https://github.com/gitpitch/gitpitch/wiki/Background-Setting)
-- [Slide-specific Background Images](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background)
-- [Custom Logo](https://github.com/gitpitch/gitpitch/wiki/Logo-Setting), [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents), and [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
-
-+++
-
-## Go GitPitch Pro!
-
-<br>
-<div class="left">
-    <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
-    <a href="https://gitpitch.com/pro-features" class="pro-link">
-    More details here.</a>
-</div>
-<div class="right">
-   <iframe src="https://www.crummy.com/software/BeautifulSoup/zine/" style="height:10em;width:50em"></iframe>
-</div>
-
-+++
 
 ### Font Awesome integrates nicely
 
