@@ -17,7 +17,12 @@ Django has a "batteries-included" philosophy, so...
 ## Django in the wild
 
 ![Instagram](assets/image/instagram.jpg)
-Source: [SayOne](https://www.sayonetech.com/blog/software-stack-five-hot-startups-running-django/)
+
++++
+
+Other notable companies include Disqus, Spotify, YouTube, The Washington Post, BitBucket, DropBox, EventBrite, Mozilla, & Prezi.
+
+Sources: [SayOne](https://www.sayonetech.com/blog/software-stack-five-hot-startups-running-django/) and [NetGuru](https://www.netguru.co/blog/top-10-django-apps-and-why-companies-are-betting-on-this-framework)
 
 ---
 
