@@ -50,7 +50,7 @@ Sources: [SayOne](https://www.sayonetech.com/blog/software-stack-five-hot-startu
 @[41-53](GIST source code is beautifully rendered on any slide.)
 @[57-62](And code-presenting works seamlessly for GIST too, both online and offline.)
 
----
+---?image=assets/image/gitpitch-audience.jpg
 
 ### Tutorials
 
@@ -71,10 +71,3 @@ Non-traditional Django: [Lightweight Django](https://github.com/lightweightdjang
 Asynchronous Django: [An outlook](https://www.aeracode.org/2018/06/04/django-async-roadmap/) and [an implementation](https://realpython.com/asynchronous-tasks-with-django-and-celery/)
 
 Awesome Django: [No really, that's what it's called](http://awesome-django.com/).
-
----?image=assets/image/gitpitch-audience.jpg
-
-@title[Download this Template!]
-
-### <span class="white">Get your presentation started!</span>
-### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/aqua)
